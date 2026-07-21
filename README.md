@@ -2,10 +2,10 @@
 
 This repo holds the LA solarpunk group handbook. It currently covers the following:
 
-- Group structure and management
-- Conflict resolution
+- [Group structure and management]('governance structure.md')
+- [Conflict resolution]('conflict resolution.md')
 
-This is a living project which will update to reflect the state and decisions of the collective.
+This is a living project which will update to reflect the state and decisions of the collective. It will be tagged using [semantic versions](https://semver.org/) to reflect the most up to date version as well as to capture the degree of changes in versions. 
 
 
 ## Who Are We
