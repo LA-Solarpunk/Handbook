@@ -1,11 +1,11 @@
 # Governance Structure
-This page documents our governanace structure. How we run the group as a whole and how we manage projects.
+This page documents our governance structure. How we run the group as a whole and how we manage projects.
 
 We currently operate thanks to the support of the CRASH Space Makerspace. Before getting into the details, it's important to note that following this handbook is only necessary for the support of the LA Solarpunk group. CRASH is a do-ocracy so even if the Solarpunk group decides not to support a project people have the right to go to and work with CRASH on their own.
 
 With that being said, we'll go over group governance and then project lifecycles.
 
-## Group Governanace
+## Group Governance
 As a group we are essentially hosting many different projects. Hosting a project means that we:
 - provide volunteer support
 - give the project visibility within the group
